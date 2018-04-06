@@ -1,0 +1,55 @@
+--- !ruby/object:TaskContainer
+tasks:
+- !ruby/object:Task
+  desc: Completar la autoevaluacion
+  group: ''
+  id: 1
+  completed: true
+  archived: true
+- !ruby/object:Task
+  desc: Estudiar para el parcial
+  group: ''
+  id: 2
+  completed: false
+  archived: false
+- !ruby/object:Task
+  desc: Resolver TP1
+  group: ''
+  id: 3
+  completed: false
+  archived: false
+  date: 2018-04-03
+- !ruby/object:Task
+  desc: Resolver TP2
+  group: ''
+  id: 4
+  completed: false
+  archived: false
+  date: 2018-04-20
+- !ruby/object:Task
+  desc: 'test_overdue '
+  group: ''
+  id: 5
+  completed: false
+  archived: false
+  date: 2018-04-01
+- !ruby/object:Task
+  desc: Resolver TP1
+  group: "+POO"
+  id: 6
+  completed: false
+  archived: false
+- !ruby/object:Task
+  desc: Resolver TP2
+  group: "+POO"
+  id: 7
+  completed: false
+  archived: false
+- !ruby/object:Task
+  desc: Pagar tarjeta de credito
+  group: "+Personal"
+  id: 8
+  completed: false
+  archived: false
+  date: 2018-04-03
+idx: 8

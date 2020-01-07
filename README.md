@@ -1,1 +1,1 @@
-Ruby-TPE
+Configurable task manager via command input
